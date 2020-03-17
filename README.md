@@ -1,3 +1,5 @@
+Duplicate fron https://github.com/rdavisau/sockets-for-pcl.git
+
 # Sockets Plugin for Xamarin and Windows (PCL)
 
 [![Join the chat at https://gitter.im/rdavisau/sockets-for-pcl](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rdavisau/sockets-for-pcl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
